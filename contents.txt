@@ -27,9 +27,6 @@ Chapter 3
 3.2 Setting Up Node.js and Express.js
 3.3 Database Configuration with MySQL
 3.4 Implementing Core Features
-3.4.1 Adding Product Stocks
-3.4.2 Order Processing and Stock Updates
-3.4.3 Calculating Nearest Stock Location
 
 Chapter 4
 4. Implementing the User Interface
@@ -39,21 +36,6 @@ Chapter 4
 4.4 Building the Pages
 
 Chapter 5
-5. Testing and System Workflow
-5.1 Test Cases and Results
-5.2 System Workflow Analysis
-5.3 Interaction Between Modules
-
-Chapter 6
-6. Summary and Conclusion
-6.1 Summary
-6.2 Key Findings
-6.3 Limitations and Recommendations
-
-Bibliography
-Appendices
-A. Code Snippets
-B. Wireframes and Diagrams
-C. User Manual
-
-
+5. Summary and Conclusion
+5.1 Summary
+5.2 Conclusion
