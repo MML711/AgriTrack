@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.homePage {
+    height: calc(100vh - 50px);
+    width: 100%;
+
+    .container {
+        height: 100%;
+        position: relative;
+
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            opacity: 0.85;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.4); // Black with 40% opacity (adjust as needed)
+        }
+
+        h2 {
+            font-family: 'Brush Script MT', cursive;
+            position: absolute;
+            top: 30%;
+            left: 40%;
+            color: white;
+        }
+        
+        .text {
+            position: absolute;
+            width: 450px;
+            top: 40%;
+            left: 40%;
+            // transform: translate(-50%, -50%);
+            color: white;
+            font-size: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); // Optional: add shadow to text for extra contrast
+        }
+        
+        .btn {
+            top: 70%;
+            left: 40%;
+            position: absolute; 
+            
+            button {
+                height: 50px;
+                width: 150px;
+                color: white;
+                font-size: medium;
+                font-weight: 500;
+                transition: all 0.4s ease;
+                cursor: pointer;
+            }
+
+            .first-btn {
+                background-color: #703c5c;
+                
+                &:hover {
+                    background-color: #c0848c;
+                    scale: 1.05;
+                }
+            }
+
+            .second-btn {
+                // background-color: rgb(17, 105, 105);
+                background-color: teal;
+                
+                &:hover {
+                    background-color: rgb(116, 199, 199);
+                    scale: 1.05;
+                }
+            }
+            
+        }
+    }
+}

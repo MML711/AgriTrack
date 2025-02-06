@@ -1,0 +1,44 @@
+.itemInfo {
+    width: 330px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 15px;
+    gap: 7px;
+    box-shadow: 0 4px 16px rgba(14, 21, 37, .06);
+
+    img {
+        width: 200px;
+        height: 180px;
+        object-fit: cover;
+    }
+
+    .amount {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+
+        input {
+            width: 30px;
+            height: 20px;
+        }
+
+        span {
+
+        }
+    }
+
+    .order {
+        height: 30px;
+        width: 60px;
+        color: white;
+        background-color: goldenrod;
+        border: 1px solid wheat;
+        border-radius: 5px;
+    }
+}

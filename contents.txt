@@ -1,0 +1,59 @@
+Contents
+List of Figures
+List of Acronyms
+Abstract
+Acknowledgments
+
+Chapter 1
+1. Introduction
+1.1 Context
+1.2 Objectives
+1.2.1 Objectives of the Frontend
+1.2.2 Objectives of the Backend
+1.3 Importance of Technology in Agriculture
+1.4 Key Features of the Application
+
+Chapter 2
+2. Designing the Farmer-Customer Application
+2.1 System Overview
+2.2 Frontend Design
+2.3 Backend Design
+2.4 Database Schema Design
+2.5 Integrating Google Distance Matrix API
+
+Chapter 3
+3. Implementing the Backend
+3.1 Backend Technology Stack
+3.2 Setting Up Node.js and Express.js
+3.3 Database Configuration with MySQL
+3.4 Implementing Core Features
+3.4.1 Adding Product Stocks
+3.4.2 Order Processing and Stock Updates
+3.4.3 Calculating Nearest Stock Location
+
+Chapter 4
+4. Implementing the User Interface
+4.1 Frontend Technology Stack
+4.2 Setting Up React.js and Sass
+4.3 Designing UI Components
+4.4 Building the Pages
+
+Chapter 5
+5. Testing and System Workflow
+5.1 Test Cases and Results
+5.2 System Workflow Analysis
+5.3 Interaction Between Modules
+
+Chapter 6
+6. Summary and Conclusion
+6.1 Summary
+6.2 Key Findings
+6.3 Limitations and Recommendations
+
+Bibliography
+Appendices
+A. Code Snippets
+B. Wireframes and Diagrams
+C. User Manual
+
+

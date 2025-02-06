@@ -1,0 +1,11 @@
+id,first_name,last_name,email,password,role,profile_picture
+1,John,Doe,john.doe@example.com,hashedpassword1,farmer,https://example.com/profile1.jpg
+2,Jane,Smith,jane.smith@example.com,hashedpassword2,customer,https://example.com/profile2.jpg
+3,Robert,Johnson,robert.johnson@example.com,hashedpassword3,farmer,https://example.com/profile3.jpg
+4,Alice,Davis,alice.davis@example.com,hashedpassword4,customer,https://example.com/profile4.jpg
+5,Tom,Miller,tom.miller@example.com,hashedpassword5,farmer,https://example.com/profile5.jpg
+6,Emma,Wilson,emma.wilson@example.com,hashedpassword6,customer,https://example.com/profile6.jpg
+7,James,Taylor,james.taylor@example.com,hashedpassword7,farmer,https://example.com/profile7.jpg
+8,Olivia,Anderson,olivia.anderson@example.com,hashedpassword8,customer,https://example.com/profile8.jpg
+9,Michael,Thomas,michael.thomas@example.com,hashedpassword9,farmer,https://example.com/profile9.jpg
+10,Sophia,Jackson,sophia.jackson@example.com,hashedpassword10,customer,https://example.com/profile10.jpg

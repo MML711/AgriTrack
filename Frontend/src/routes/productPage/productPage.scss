@@ -1,0 +1,71 @@
+.container {
+    background-color: #f7f8fc;
+
+    .title {
+        font-family: Arial, Helvetica, sans-serif;
+        height: 120px;
+
+        h1 {
+            padding: 20px;
+            font-size: xx-large;
+            margin: 0 20px;
+        }
+
+        .cropType {
+            display: flex;
+            justify-content: space-around;
+
+            a {
+                // background-color: white;
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 40px;
+                border-radius: 20px;
+                cursor: pointer;
+                box-shadow: 0 4px 16px rgba(14, 21, 37, .06);
+
+                span {
+                    margin: 0 20px;
+                    font-weight: 700;
+                    // color: #293551;
+                }
+            }
+        }
+    }
+
+    .buttonWrapper {
+        display: flex;
+        justify-content: space-between;
+
+        button {
+            width: 100px;
+            height: 40px;
+            margin: 5px 100px;
+        }
+    }
+    
+    .products {
+        height: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+
+        // .modal-container {
+        //     width: 700px;
+        //     height: 500px;
+        //     // display: flex;
+
+        //     .modal-img {
+        //         width: 300px;
+        //         height: 300px;
+        //         object-fit: cover;
+        //     }
+
+        //     .modaldetails {
+                
+        //     }
+        //}
+    }
+}
